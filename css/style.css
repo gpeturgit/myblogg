@@ -1,4 +1,4 @@
-/* Custom Stylesheet */
+/* Custom Stylesheet Hall�*/
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
@@ -14,8 +14,8 @@
 }
 #navcust-header
 {
-  background-color:white;
-  max-height: 250px;
+/*  background-color:darkslategrey;
+  height: 150px;*/
   width: 100%;
 }
 
@@ -35,5 +35,10 @@
   height: 64px;
   vertical-align: middle;
 }
+#maincust-headerbar {
+  background-color:rgb(57, 79, 73)
+}
+
+
 
 
